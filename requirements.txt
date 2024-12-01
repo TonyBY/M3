@@ -1,0 +1,26 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+datasets
+faiss-gpu==1.7.2
+huggingface-hub
+json5
+jsonlines
+lightgbm
+nltk
+numpy<2.0
+pandas
+pickle5
+pyserini==0.43.0
+pytorch-lightning==2.4.0
+scikit-learn
+stanfordcorenlp
+stanfordnlp
+tensorboard
+torch
+torchaudio
+torchmetrics
+torchvision
+tqdm
+transformers==4.30.2
+SetSimilaritySearch
+prettytable
+xgboost
